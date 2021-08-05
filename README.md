@@ -20,8 +20,6 @@
   <img align="center" alt="Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
   <img align="center" alt="Postgree" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg">
   <img align="center" alt="MD" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg">
-  
-  <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
